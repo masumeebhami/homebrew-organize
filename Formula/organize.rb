@@ -1,8 +1,8 @@
 class Organize < Formula
   desc "Smart file organizer for macOS, written in Rust"
   homepage "https://github.com/masumeebhami/organize"
-  url "https://github.com/masumeebhami/organize/releases/download/alpha/organize-macos.tar.gz"
-  sha256 "7573a1732ac648928a8fd20a2864b867ee4cf5aa26f275e29a70519035b0868d"
+  url "https://github.com/masumeebhami/organize/releases/download/aplha0.1.1/organize-macos.tar.gz"
+  sha256 "b4fff92aca5a6ce0241dee65d0568f62e675b2c67fde5e4f282af6be6bcff062"
   version "alpha"
   license "MIT"
 
