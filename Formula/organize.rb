@@ -3,7 +3,7 @@ class Organize < Formula
   homepage "https://github.com/masumeebhami/organize"
   url "https://github.com/masumeebhami/organize/releases/download/aplha0.1.1/organize-macos.tar.gz"
   sha256 "b4fff92aca5a6ce0241dee65d0568f62e675b2c67fde5e4f282af6be6bcff062"
-  version "alpha"
+  version "aplha0.1.1"
   license "MIT"
 
   def install
